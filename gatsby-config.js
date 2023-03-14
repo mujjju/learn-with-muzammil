@@ -6,5 +6,5 @@ module.exports = {
     title: `learn-with-muzammo;`,
     siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: ["gatsby-plugin-gtag"]
+  plugins: ["gatsby-plugin-google-gtag"]
 };
